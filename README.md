@@ -345,18 +345,6 @@ Institución Universitaria Colegio Mayor del Cauca
 
 ---
 
-# 📊 Most Used Languages
-
-Although I enjoy learning different technologies, my primary focus is building modern backend applications using TypeScript and JavaScript.
-
-<div align="center">
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeneses22&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/FelipeMeneses22)
-
-</div>
-
----
-
 # 🤝 Let's Connect
 
 I'm always interested in connecting with developers, engineers and professionals who enjoy building high-quality software and solving real-world problems.
@@ -376,20 +364,6 @@ I'm always interested in connecting with developers, engineers and professionals
   Popayán, Cauca, Colombia
 
 </div>
-
----
-
-# 📌 Repository Roadmap
-
-The following repositories represent my current and upcoming professional portfolio.
-
-| Repository | Status |
-|------------|--------|
-| **FelipeMeneses22** | ✅ GitHub Profile |
-| **telecom-infrastructure-platform** | 🚧 Coming Soon |
-| **smart-iot-helmet** | 🚧 Coming Soon |
-| **ai-requirements-assistant** | 🚧 In Progress |
-| **developer-portfolio** | 📅 Planned |
 
 ---
 
