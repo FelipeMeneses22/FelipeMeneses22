@@ -18,41 +18,36 @@
 
 🇺🇸 **English**
 
-I'm a **Software Engineer** focused on designing and building scalable backend systems, distributed architectures and enterprise software solutions.
+I'm a **Software Engineer** focused on designing scalable backend systems, distributed architectures and enterprise software solutions.
 
-My main interests include **Backend Development**, **Software Architecture**, **Microservices**, and **AI-Assisted Software Engineering**. I enjoy transforming business requirements into maintainable, secure and well-structured software by applying modern engineering principles and architectural best practices.
-
-I believe great software is not only about writing code—it's about designing systems that are reliable, scalable and prepared to evolve over time.
+My interests include **Backend Development**, **Software Architecture**, **Microservices** and **AI-Assisted Software Engineering**. I enjoy transforming business requirements into maintainable, secure and scalable software through modern engineering principles.
 
 ---
 
 🇪🇸 **Español**
 
-Soy **Ingeniero Informático** orientado al diseño y desarrollo de aplicaciones empresariales escalables, arquitecturas distribuidas y soluciones backend modernas.
+Soy **Ingeniero Informático** orientado al diseño de aplicaciones empresariales escalables, arquitecturas distribuidas y soluciones backend modernas.
 
-Mis principales áreas de interés son el **Backend Development**, la **Arquitectura de Software**, la **Arquitectura basada en Microservicios** y el **desarrollo de software asistido por Inteligencia Artificial**. Disfruto transformar necesidades de negocio en soluciones mantenibles, seguras y bien estructuradas mediante principios de Ingeniería de Software y buenas prácticas de arquitectura.
-
-Creo que un buen software no consiste únicamente en escribir código, sino en diseñar sistemas confiables, escalables y preparados para evolucionar.
+Mis principales áreas de interés son el **Backend Development**, la **Arquitectura de Software**, la **Arquitectura basada en Microservicios** y el **desarrollo asistido por Inteligencia Artificial**. Disfruto transformar necesidades de negocio en software mantenible, seguro y escalable mediante principios modernos de Ingeniería de Software.
 
 ---
 
 # 🚀 About Me
 
 - 🏗 Designing scalable software architectures.
-- ⚙ Building modern backend applications with TypeScript and NestJS.
-- 🔐 Interested in authentication, authorization and secure software design.
-- 🧩 Passionate about distributed systems and microservices.
-- 📖 Continuous learner in Software Engineering and modern architecture.
-- 🤖 Exploring Artificial Intelligence to improve software development processes.
-- 📚 Strong believer in technical documentation as part of software quality.
+- ⚙ Building backend applications with TypeScript and NestJS.
+- 🧩 Interested in distributed systems and microservices.
+- 🔐 Focused on secure software design.
+- 🤖 Exploring AI-assisted software engineering.
+- 📚 Strong believer in technical documentation and continuous learning.
 
 ---
 
 # 🎯 Engineering Focus
 
-My professional interests are centered around building software that remains maintainable as it grows.
+My professional interests focus on designing software that remains maintainable as it grows.
 
-Current areas of specialization include:
+Current areas include:
 
 - Backend Development
 - Software Architecture
@@ -61,17 +56,15 @@ Current areas of specialization include:
 - RESTful API Design
 - Authentication & Authorization
 - Enterprise Software
-- Technical Documentation
 - AI-Assisted Software Engineering
 
-I enjoy designing systems that prioritize:
+I prioritize systems that are:
 
-- Maintainability
-- Scalability
-- Modularity
-- Security
-- Clean Code
-- Long-term Evolution
+- Maintainable
+- Scalable
+- Modular
+- Secure
+- Clean
 
 ---
 
@@ -215,17 +208,16 @@ The projects below represent different stages of my Software Engineering journey
 
 **Enterprise Web Application | Professional Internship Project**
 
-Development of an enterprise platform for managing telecommunications infrastructure, designed and implemented during my professional internship at **EMTEL S.A. E.S.P.**
+Enterprise platform for managing telecommunications infrastructure, developed during my professional internship at **EMTEL S.A. E.S.P.**
 
 ### Highlights
 
-- Designed a **Microservices Architecture** composed of multiple independent services.
-- Developed secure REST APIs using **NestJS** and **TypeScript**.
-- Implemented **JWT Authentication**, **RBAC**, **Refresh Tokens** and **Two-Factor Authentication (2FA)**.
-- Integrated **RabbitMQ** for asynchronous communication.
-- Used **Redis** for distributed caching and session management.
-- Combined **PostgreSQL** and **MongoDB** according to each service's requirements.
-- Containerized the complete solution using **Docker**.
+- Designed a Microservices Architecture.
+- Developed secure REST APIs with NestJS.
+- Implemented JWT, RBAC, Refresh Tokens and 2FA.
+- Integrated RabbitMQ for asynchronous communication.
+- Used PostgreSQL, MongoDB and Redis.
+- Containerized the solution with Docker.
 
 > **Repository:** *(Coming Soon)*
 
@@ -235,9 +227,9 @@ Development of an enterprise platform for managing telecommunications infrastruc
 
 **Research & IoT Project**
 
-Development of an intelligent safety helmet prototype capable of monitoring environmental conditions and improving worker safety through IoT technologies.
+Development of an intelligent safety helmet prototype for monitoring environmental conditions and improving worker safety through IoT technologies.
 
-This project allowed me to strengthen my knowledge in embedded systems, sensor integration and the interaction between hardware and software.
+This project strengthened my knowledge of embedded systems, sensor integration and hardware-software interaction.
 
 > **Repository:** *(Coming Soon)*
 
@@ -247,9 +239,9 @@ This project allowed me to strengthen my knowledge in embedded systems, sensor i
 
 **Personal Project | In Progress**
 
-A platform designed to assist software analysts during requirements elicitation by combining conversational AI, transcription technologies and intelligent documentation.
+An AI-powered platform designed to assist software analysts during requirements elicitation.
 
-Current goals include:
+Current goals:
 
 - Meeting transcription
 - Requirement extraction
@@ -263,25 +255,21 @@ Current goals include:
 
 # 🏛 Engineering Principles
 
-Over time, I have realized that building software is not only about implementing features, but about creating systems that remain valuable as they evolve.
-
-These principles guide the way I approach every project.
+I believe software should remain valuable as it evolves.
 
 ### Software Quality
 
-- Maintainability
-- Scalability
-- Reliability
-- Security
-- Simplicity
+- Maintainable
+- Scalable
+- Reliable
+- Secure
 
 ### Software Design
 
-- Separation of Concerns
 - SOLID Principles
+- Clean Architecture
 - Modularity
 - Reusability
-- Clean Architecture
 
 ### Professional Practices
 
@@ -289,15 +277,10 @@ These principles guide the way I approach every project.
 - Continuous Learning
 - Version Control
 - Collaborative Development
-- Incremental Improvement
-
-Rather than focusing on frameworks, I strive to understand the engineering principles behind them.
 
 ---
 
 # 🌱 Current Learning
-
-Technology evolves constantly, and I believe continuous learning is one of the most important responsibilities of a Software Engineer.
 
 Currently expanding my knowledge in:
 
@@ -394,11 +377,9 @@ The following repositories represent my current and upcoming professional portfo
 
 # 📖 Profile Philosophy
 
-This GitHub profile reflects my continuous journey as a Software Engineer.
+This profile reflects my journey as a Software Engineer.
 
-Every repository represents an opportunity to improve my technical skills, explore better architectural approaches and build software that is maintainable, scalable and prepared for future evolution.
-
-My objective is not simply to create applications, but to design software that solves real problems while following sound engineering principles.
+My goal is to build software that solves real-world problems through sound engineering principles, scalable architecture and continuous learning.
 
 ---
 
