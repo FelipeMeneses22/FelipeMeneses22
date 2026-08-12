@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="assets/profile-banner.png" alt="Profile Banner"/>
+  <img src="assets/banner_github_v1.png" alt="Profile Banner"/>
   
 </p>
 
